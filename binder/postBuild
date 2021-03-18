@@ -94,7 +94,7 @@ echo "export HADOOP_SSH_OPTS=\"-o StrictHostKeyChecking=no -p 8822\"" >> ~/.prof
 ###############################################################
 #            spark installation commands                      #
 ###############################################################
-export SPARK_VERSION=3.1.1
+export SPARK_VERSION=3.0.2
 echo "export SPARK_VERSION=${SPARK_VERSION}" >> ~/.bashrc
 echo "export SPARK_VERSION=${SPARK_VERSION}" >> ~/.profile
 
