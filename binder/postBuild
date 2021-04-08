@@ -157,3 +157,6 @@ echo "export HADOOP_CONF_DIR=$HADOOP_HOME/etc/hadoop" >> ~/.profile
 echo "export PATH=\$PATH:\$CODE_SERVER_HOME/bin"   >> ~/.bashrc
 echo "export PATH=\$PATH:\$CODE_SERVER_HOME/bin"   >> ~/.profile
 
+# Clone notebooks
+git clone https://github.com/lassebenni/delta-lake-workshop.git
+
