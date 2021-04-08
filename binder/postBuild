@@ -158,5 +158,7 @@ echo "export PATH=\$PATH:\$CODE_SERVER_HOME/bin"   >> ~/.bashrc
 echo "export PATH=\$PATH:\$CODE_SERVER_HOME/bin"   >> ~/.profile
 
 # Clone notebooks
+cd /home/jovyan
 git clone https://github.com/lassebenni/delta-lake-workshop.git
+git clone https://github.com/CSSEGISandData/COVID-19.git
 
