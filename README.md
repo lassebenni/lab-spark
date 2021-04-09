@@ -13,7 +13,7 @@ This repo is forked from https://github.com/thedatasociety/lab-spark and adjuste
 Be sure to download any changes to your notebooks since the Binder environment is temporary and does not persist changes after shutting down! If your browser session is inactive for more than 10 minutes (active window==active session), Binder will shutdown and you will lose all changes on the next launch since a copy of the master branch will be started again.
 
 ## Uses
-- https://mybinder.org/
-- https://github.com/delta-io/delta
-- https://github.com/thedatasociety/lab-spark
-- https://github.com/lassebenni/delta-lake-workshop
+- https://mybinder.org/ (Dockerizing the Repo)
+- https://github.com/delta-io/delta (DeltaLake)
+- https://github.com/thedatasociety/lab-spark (upstream for this repo)
+- https://github.com/lassebenni/delta-lake-workshop (notebooks with exercises for deltalake)
