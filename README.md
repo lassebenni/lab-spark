@@ -6,7 +6,7 @@ This repo is forked from https://github.com/thedatasociety/lab-spark and adjuste
 1. [Launch the Binder environment](https://notebooks.gesis.org/binder/v2/gh/lassebenni/lab-spark/master?urlpath=lab). This will start a Dockerized version of the Repo on a public compute instance (hosted by gesis.org).
 2. Binder will build and install Apache Hadoop 3.2.1 and Apache Spark 3.0.
 3. Binder will start [Jupyter Lab](https://jupyterlab.readthedocs.io/en/stable/) so we can use Jupyter Notebooks for the exercises.
-4. The workshop notebooks will be downloaded from [The Delta Lake Workshop Repo](https://github.com/lassebenni/delta-lake-workshop). The notebooks contain the code to install and use [DataBricks DeltaLake[(https://docs.databricks.com/delta).
+4. The workshop notebooks will be downloaded from [The Delta Lake Workshop Repo](https://github.com/lassebenni/delta-lake-workshop). The notebooks contain the code to install and use [DataBricks DeltaLake](https://docs.databricks.com/delta).
 5. Enjoy the power of Spark and DeltaLake in your Browser!
 
 ### Warning: Download your Notebook changes
